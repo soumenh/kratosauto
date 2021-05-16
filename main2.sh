@@ -10,7 +10,6 @@ echo -e "          𝙾𝚄𝚁 𝚂𝙴𝚁𝚅𝙴𝚁 𝙸𝚂 𝙾𝙿𝙴�
 sleep 2
 clear
 main3.sh
-  fi
   else
  echo " "
 echo " "
